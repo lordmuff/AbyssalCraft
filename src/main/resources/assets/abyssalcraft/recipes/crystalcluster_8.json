@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "abyssalcraft:crystal",
+      "data": 8
+    }
+  },
+  "result": {
+    "item": "abyssalcraft:potassium_crystal_cluster"
+  }
+}

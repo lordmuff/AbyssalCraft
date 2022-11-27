@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "abyssalcraft:crystal",
+      "data": 10
+    }
+  },
+  "result": {
+    "item": "abyssalcraft:methane_crystal_cluster"
+  }
+}

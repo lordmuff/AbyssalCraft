@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "abyssalcraft:crystal",
+      "data": 7
+    }
+  },
+  "result": {
+    "item": "abyssalcraft:phosphorus_crystal_cluster"
+  }
+}
